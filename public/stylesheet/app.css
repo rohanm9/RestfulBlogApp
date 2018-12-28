@@ -1,0 +1,21 @@
+i.icon{
+    font-size: 2em;
+}
+.ui.menu{
+    border-radius: 0;
+}
+.ui.text.container{
+    margin-top: 7em;
+}
+.ui.text.container{
+    max-width: 1000px!important;
+}
+#r{
+    width:100%;
+}
+#small{
+    font-size:10px;
+}
+.ui.header{
+    margin:0!important;
+}
